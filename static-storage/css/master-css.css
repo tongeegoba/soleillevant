@@ -1,0 +1,78 @@
+.navbar-brand{
+    font-style: italic;
+}
+
+.navbar{
+    border-bottom: 5px solid #a9b0b4;
+    color: #a9b0b4;
+}
+
+/*.donate{*/
+    /*background: rgba(11,8,12,0.59);*/
+    /*border-radius: 5px;*/
+/*}*/
+
+#main-section{
+    background-image: url("../images/equal.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 1000px;
+}
+
+.dark-overlay{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    min-height: 1000px;
+    background: rgba(0,0,0, 0.7);
+    border-bottom: 5px solid #a9b0b4;
+}
+.dark-overlay-home{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    min-height: 1000px;
+    background: rgba(0,0,0, 0.7);
+    border-bottom: 5px solid #a9b0b4;
+}
+
+.main-section-inner{
+    padding-top: 150px;
+}
+
+.card-header{
+    background: #a9b0b4;
+}
+
+.main-section-card{
+    background: #fedf08;
+    color: black;
+}
+
+.founders{
+    background: url("../images/fire.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 1000px;
+
+}
+
+.join-us-section{
+     border-bottom: 5px solid #a9b0b4;
+}
+
+#explore-head-section{
+    background: #333333;
+}
+
+/*.details{*/
+    /*background: url("../images/shoe.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    /*background-attachment: fixed;*/
+    /*min-height: 1000px;*/
+/*}*/
+
